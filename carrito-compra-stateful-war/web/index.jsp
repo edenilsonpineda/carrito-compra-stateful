@@ -100,7 +100,7 @@
             </div>
 
             <footer class="footer">
-                <p>&copy; 2022 - Carrito de Compras EJB Stateful </p>
+                <p>&copy; 2022 - Carrito de Compras EJB Stateful</p>
             </footer>
 
         </div> <!-- /container -->
